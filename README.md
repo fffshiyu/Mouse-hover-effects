@@ -1,5 +1,4 @@
 # Mouse-hover-effects
-onlion address :mouse-hover-effects.vercel.app
 Move Mouse Hover Effects
 This project creates a dynamic and visually appealing effect when you hover the mouse over an image. It uses CSS and JavaScript to animate squares over the image and blend them with the image's overlay, creating a unique hover experience.
 
